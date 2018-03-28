@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>address0</key>
+	<dict>
+		<key>name</key>
+		<string>佐藤</string>
+		<key>mail</key>
+		<string>sato@localhost.com</string>
+		<key>tel</key>
+		<string>090-0000-0000</string>
+	</dict>
+	<key>address1</key>
+	<dict>
+		<key>name</key>
+		<string>鈴木</string>
+		<key>mail</key>
+		<string>suzuki@localhost.com</string>
+		<key>tel</key>
+		<string>090-0000-0001</string>
+	</dict>
+	<key>address2</key>
+	<dict>
+		<key>name</key>
+		<string>高橋</string>
+		<key>mail</key>
+		<string>takahashi@localhost.com</string>
+		<key>tel</key>
+		<string>090-0000-0002</string>
+	</dict>
+	<key>address3</key>
+	<dict>
+		<key>name</key>
+		<string>田中</string>
+		<key>mail</key>
+		<string>tanaka@localhost.com</string>
+		<key>tel</key>
+		<string>090-0000-0003</string>
+	</dict>
+	<key>address4</key>
+	<dict>
+		<key>name</key>
+		<string>伊藤</string>
+		<key>mail</key>
+		<string>itou@localhost.com</string>
+		<key>tel</key>
+		<string>090-0000-0004</string>
+	</dict>
+	<key>address5</key>
+	<dict>
+		<key>name</key>
+		<string>渡辺</string>
+		<key>mail</key>
+		<string>watanabe@localhost.com</string>
+		<key>tel</key>
+		<string>090-0000-0005</string>
+	</dict>
+</dict>
+</plist>
